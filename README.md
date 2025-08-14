@@ -1,3 +1,4 @@
+## Hi, I'm Lucia ! 🪼
 🧬 Bioinformatician working in genomics / transcriptomics<br/>
 📊 Data science enthusiast<br/>
 🌀 Finding patterns<br/>
